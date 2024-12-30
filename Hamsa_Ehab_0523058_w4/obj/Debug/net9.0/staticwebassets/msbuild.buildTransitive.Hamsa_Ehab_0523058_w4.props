@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Hamsa_Ehab_0523058_w4.props" />
+</Project>
