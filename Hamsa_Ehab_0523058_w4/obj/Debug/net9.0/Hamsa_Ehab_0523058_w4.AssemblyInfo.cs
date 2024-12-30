@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hamsa_Ehab_0523058_w4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7194cc513f67f7b145c9af34b3ea6cae2d0230d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hamsa_Ehab_0523058_w4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hamsa_Ehab_0523058_w4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

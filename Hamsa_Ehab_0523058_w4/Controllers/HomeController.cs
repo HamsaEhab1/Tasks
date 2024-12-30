@@ -18,6 +18,11 @@ namespace Hamsa_Ehab_0523058_w4.Controllers
             return View();
         }
 
+        public IActionResult NewIndex()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
